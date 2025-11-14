@@ -57,8 +57,13 @@ Designed for **students, cybersecurity learners, and developers**, this tool mak
 - Custom Blowfish implementation
 
 ---
+## Directory structure 
 
-
+├── .idea/ # PyCharm project files
+├── blowfish.py # Core Blowfish implementation
+├── blowfish_constants.py # P-array & S-box values used in Blowfish
+├── README.md # Project documentation (auto-generated)
+└── app.py # Streamlit visualizer (if you use this name)
 ---
 
 ## ▶️ Run Locally
