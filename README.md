@@ -57,14 +57,6 @@ Designed for **students, cybersecurity learners, and developers**, this tool mak
 - Custom Blowfish implementation
 
 ---
-## Directory structure 
-
--├── .idea/
--├── blowfish.py
--├── blowfish_constants.py
--├── README.md
--└── app.py
----
 
 ## ▶️ Run Locally
 
