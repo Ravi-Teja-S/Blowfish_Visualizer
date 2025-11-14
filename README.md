@@ -65,7 +65,7 @@ Designed for **students, cybersecurity learners, and developers**, this tool mak
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Ravi-Teja-S/Blowfish_Visualizer.git
 cd blowfish-visualizer
 
 # Install required packages
