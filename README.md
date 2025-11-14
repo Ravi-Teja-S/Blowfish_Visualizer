@@ -58,5 +58,20 @@ Designed for **students, cybersecurity learners, and developers**, this tool mak
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ▶️ Run Locally
+
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd blowfish-visualizer
+
+# Install required packages
+pip install -r requirements.txt
+
+# Run the app
+streamlit run visualizer.py
+
 
