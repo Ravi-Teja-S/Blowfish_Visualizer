@@ -6,8 +6,7 @@ An interactive Streamlit-based web application to visualize and understand how t
 https://blowfish-visualizer.streamlit.app/
 
 📘 **Presentation (Working of Blowfish Algorithm):**  
-https://www.canva.com/design/DAG4TGp9r1A/vTWP5i4YAIItUc1OCtPD6A/view
-
+https://www.canva.com/design/DAG4TGp9r1A/vTWP5i4YAIItUc1OCtPD6A/view?utm_content=DAG4TGp9r1A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h672c798e04
 ---
 
 ## 📖 Overview
